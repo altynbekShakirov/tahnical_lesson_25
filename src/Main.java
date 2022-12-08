@@ -14,7 +14,7 @@ public class Main {
                 technical certificate:  
                
                 """);
-        System.out.println(certificateHashMap);
+        System.out.println(certificateHashMap.entrySet());
 
 
     }
